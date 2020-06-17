@@ -9,13 +9,13 @@ uniapp实战项目，有用户登录、注册、文章信息添加查阅
 4、在Hbuilder X 中运行项目（需先配置微信开发者工具或连接手机） 运行--》指定模拟器等
 
 # 效果图为：
-![image](https://github.com/wuwenyi/show/tree/master/yixiao/登录页.jpg?raw=true)
-![image](https://github.com/wuwenyi/show/tree/master/yixiao/注册页.jpg?raw=true)
-![image](https://github.com/wuwenyi/show/tree/master/yixiao/1.png?raw=true)
-![image](https://github.com/wuwenyi/show/tree/master/yixiao/3.png?raw=true)
-![image](https://github.com/wuwenyi/show/tree/master/yixiao/4.png?raw=true)
-![image](https://github.com/wuwenyi/show/tree/master/yixiao/文章发布页-2.png?raw=true)
-![image](https://github.com/wuwenyi/show/tree/master/yixiao/文章发布页.png?raw=true)
+![image](https://github.com/wuwenyi/show/tree/master/yixiao/登录页.jpg)
+![image](https://github.com/wuwenyi/show/tree/master/yixiao/注册页.jpg)
+![image](https://github.com/wuwenyi/show/tree/master/yixiao/1.png)
+![image](https://github.com/wuwenyi/show/tree/master/yixiao/3.png)
+![image](https://github.com/wuwenyi/show/tree/master/yixiao/4.png)
+![image](https://github.com/wuwenyi/show/tree/master/yixiao/文章发布页-2.png)
+![image](https://github.com/wuwenyi/show/tree/master/yixiao/文章发布页.png)
 
 # 视频教程
 代码有配套视频讲解
