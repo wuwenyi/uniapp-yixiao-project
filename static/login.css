@@ -1,0 +1,44 @@
+body{
+	background-image: url(../../static/bg.png);
+	background-size: 400upx 200upx;
+}
+.content{
+	width: 524upx;
+	margin: 0 auto;
+}
+.title{
+	font-size: 72upx;
+	color: #0055ba;
+	text-align: center;
+	margin-top: 118upx;
+	margin-bottom: 140upx;
+}
+input{
+	width: 520upx;
+	height: 80upx;
+	margin: 0 auto;
+	border: 3upx solid #0055ba;
+	border-radius: 20upx;
+/* 	text-indent: 40upx; */
+	padding-left: 40upx;
+	margin-bottom: 76upx;
+}
+.register-link{
+	font-size: 36upx;
+	color: #030303;
+	text-align: right;
+	margin-bottom: 86upx;
+}
+.link-text{
+	color: #0055ba;
+	display: inline-block;
+}
+.btn{
+	width: 520upx;
+	height: 80upx;
+	line-height: 80upx;
+	margin: 0 auto;
+	background-color: #0055ba;
+	font-size: 36upx;
+	color: #FFFFFF;
+}
